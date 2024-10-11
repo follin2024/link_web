@@ -1,0 +1,1159 @@
+{
+  "item": [
+    {
+      "code": "GH",
+      "nameKR": "가나",
+      "nameEN": "Ghana"
+    },
+    {
+      "code": "GA",
+      "nameKR": "가봉",
+      "nameEN": "Gabon"
+    },
+    {
+      "code": "GY",
+      "nameKR": "가이아나",
+      "nameEN": "Guyana"
+    },
+    {
+      "code": "GM",
+      "nameKR": "감비아",
+      "nameEN": "Gambia"
+    },
+    {
+      "code": "GG",
+      "nameKR": "건지",
+      "nameEN": "Bailiwick of Guernsey"
+    },
+    {
+      "code": "GP",
+      "nameKR": "과들루프",
+      "nameEN": "Guadeloupe"
+    },
+    {
+      "code": "GT",
+      "nameKR": "과테말라",
+      "nameEN": "Guatemala"
+    },
+    {
+      "code": "GU",
+      "nameKR": "괌",
+      "nameEN": "Guam"
+    },
+    {
+      "code": "VA",
+      "nameKR": "교황청",
+      "nameEN": "Vatican"
+    },
+    {
+      "code": "GD",
+      "nameKR": "그레나다",
+      "nameEN": "Grenada"
+    },
+    {
+      "code": "GR",
+      "nameKR": "그리스",
+      "nameEN": "Greece"
+    },
+    {
+      "code": "GL",
+      "nameKR": "그린란드",
+      "nameEN": "Greenland"
+    },
+    {
+      "code": "GN",
+      "nameKR": "기니",
+      "nameEN": "Guinea"
+    },
+    {
+      "code": "GW",
+      "nameKR": "기니비사우",
+      "nameEN": "Guinea-Bissau"
+    },
+    {
+      "code": "NA",
+      "nameKR": "나미비아",
+      "nameEN": "Namibia"
+    },
+    {
+      "code": "NR",
+      "nameKR": "나우루",
+      "nameEN": "Nauru"
+    },
+    {
+      "code": "NG",
+      "nameKR": "나이지리아",
+      "nameEN": "Nigeria"
+    },
+    {
+      "code": "SS",
+      "nameKR": "남수단",
+      "nameEN": "South Sudan"
+    },
+    {
+      "code": "ZA",
+      "nameKR": "남아프리카공화국",
+      "nameEN": "South Africa"
+    },
+    {
+      "code": "NL",
+      "nameKR": "네덜란드",
+      "nameEN": "Netherlands"
+    },
+    {
+      "code": "AN",
+      "nameKR": "네덜란드령 안틸레스",
+      "nameEN": "Netherlands Antilles"
+    },
+    {
+      "code": "NP",
+      "nameKR": "네팔연방",
+      "nameEN": "Nepal"
+    },
+    {
+      "code": "NO",
+      "nameKR": "노르웨이",
+      "nameEN": "Norway"
+    },
+    {
+      "code": "NC",
+      "nameKR": "뉴 칼레도니아",
+      "nameEN": "New Caledonia"
+    },
+    {
+      "code": "NZ",
+      "nameKR": "뉴질랜드",
+      "nameEN": "New Zealand"
+    },
+    {
+      "code": "NU",
+      "nameKR": "니우에",
+      "nameEN": "Niue"
+    },
+    {
+      "code": "NE",
+      "nameKR": "니제르",
+      "nameEN": "Niger"
+    },
+    {
+      "code": "NI",
+      "nameKR": "니카라과",
+      "nameEN": "Nicaragua"
+    },
+    {
+      "code": "TW",
+      "nameKR": "대만",
+      "nameEN": "Taiwan"
+    },
+    {
+      "code": "KR",
+      "nameKR": "대한민국",
+      "nameEN": "Korea"
+    },
+    {
+      "code": "DK",
+      "nameKR": "덴마크",
+      "nameEN": "Denmark"
+    },
+    {
+      "code": "DO",
+      "nameKR": "도미니카공화국",
+      "nameEN": "Dominican Republic"
+    },
+    {
+      "code": "DM",
+      "nameKR": "도미니카연방",
+      "nameEN": "Dominica"
+    },
+    {
+      "code": "DE",
+      "nameKR": "독일",
+      "nameEN": "Germany"
+    },
+    {
+      "code": "TL",
+      "nameKR": "동티모르",
+      "nameEN": "Timor-Leste"
+    },
+    {
+      "code": "LA",
+      "nameKR": "라오스",
+      "nameEN": "Laos"
+    },
+    {
+      "code": "LR",
+      "nameKR": "라이베리아",
+      "nameEN": "Liberia"
+    },
+    {
+      "code": "LV",
+      "nameKR": "라트비아",
+      "nameEN": "Latvia"
+    },
+    {
+      "code": "RU",
+      "nameKR": "러시아",
+      "nameEN": "Russia"
+    },
+    {
+      "code": "LB",
+      "nameKR": "레바논",
+      "nameEN": "Lebanon"
+    },
+    {
+      "code": "LS",
+      "nameKR": "레소토",
+      "nameEN": "Lesotho"
+    },
+    {
+      "code": "RE",
+      "nameKR": "레위니옹",
+      "nameEN": "Réunion"
+    },
+    {
+      "code": "RO",
+      "nameKR": "루마니아",
+      "nameEN": "Romania"
+    },
+    {
+      "code": "LU",
+      "nameKR": "룩셈부르크",
+      "nameEN": "Luxembourg"
+    },
+    {
+      "code": "RW",
+      "nameKR": "르완다",
+      "nameEN": "Rwanda"
+    },
+    {
+      "code": "LY",
+      "nameKR": "리비아",
+      "nameEN": "Libya"
+    },
+    {
+      "code": "LT",
+      "nameKR": "리투아니아",
+      "nameEN": "Lithuania"
+    },
+    {
+      "code": "LI",
+      "nameKR": "리히텐슈타인",
+      "nameEN": "Liechtenstein"
+    },
+    {
+      "code": "MG",
+      "nameKR": "마다가스카르",
+      "nameEN": "Madagascar"
+    },
+    {
+      "code": "MQ",
+      "nameKR": "마르티니크",
+      "nameEN": "Martinique"
+    },
+    {
+      "code": "MH",
+      "nameKR": "마셜제도",
+      "nameEN": "Marshall Islands"
+    },
+    {
+      "code": "YT",
+      "nameKR": "마요트",
+      "nameEN": "Mayotte"
+    },
+    {
+      "code": "FM",
+      "nameKR": "마이크로네시아연방",
+      "nameEN": "Federated States of Micronesia"
+    },
+    {
+      "code": "MO",
+      "nameKR": "마카오",
+      "nameEN": "Macao"
+    },
+    {
+      "code": "MW",
+      "nameKR": "말라위",
+      "nameEN": "Malawi"
+    },
+    {
+      "code": "MY",
+      "nameKR": "말레이시아",
+      "nameEN": "Malaysia"
+    },
+    {
+      "code": "ML",
+      "nameKR": "말리",
+      "nameEN": "Mali"
+    },
+    {
+      "code": "IM",
+      "nameKR": "맨 섬",
+      "nameEN": "Isle of Man"
+    },
+    {
+      "code": "MX",
+      "nameKR": "멕시코",
+      "nameEN": "Mexico"
+    },
+    {
+      "code": "MC",
+      "nameKR": "모나코",
+      "nameEN": "Monaco"
+    },
+    {
+      "code": "MA",
+      "nameKR": "모로코",
+      "nameEN": "Morocco"
+    },
+    {
+      "code": "MU",
+      "nameKR": "모리셔스",
+      "nameEN": "Mauritius"
+    },
+    {
+      "code": "MR",
+      "nameKR": "모리타니아",
+      "nameEN": "Mauritania"
+    },
+    {
+      "code": "MZ",
+      "nameKR": "모잠비크",
+      "nameEN": "Mazambique"
+    },
+    {
+      "code": "ME",
+      "nameKR": "몬테네그로",
+      "nameEN": "Montenegro"
+    },
+    {
+      "code": "MS",
+      "nameKR": "몬트세랫",
+      "nameEN": "Montserrat"
+    },
+    {
+      "code": "MD",
+      "nameKR": "몰도바",
+      "nameEN": "Moldova"
+    },
+    {
+      "code": "MV",
+      "nameKR": "몰디브",
+      "nameEN": "Maldives"
+    },
+    {
+      "code": "MT",
+      "nameKR": "몰타",
+      "nameEN": "Malta"
+    },
+    {
+      "code": "MN",
+      "nameKR": "몽골",
+      "nameEN": "Mongolia"
+    },
+    {
+      "code": "MM",
+      "nameKR": "미얀마",
+      "nameEN": "Myanmar"
+    },
+    {
+      "code": "US",
+      "nameKR": "미합중국",
+      "nameEN": "United States of America"
+    },
+    {
+      "code": "VU",
+      "nameKR": "바누아투",
+      "nameEN": "Vanuatu"
+    },
+    {
+      "code": "BH",
+      "nameKR": "바레인",
+      "nameEN": "Bahrain"
+    },
+    {
+      "code": "BB",
+      "nameKR": "바베이도스",
+      "nameEN": "Barbados"
+    },
+    {
+      "code": "BS",
+      "nameKR": "바하마",
+      "nameEN": "Bahamas"
+    },
+    {
+      "code": "BD",
+      "nameKR": "방글라데시",
+      "nameEN": "Bangladesh"
+    },
+    {
+      "code": "BM",
+      "nameKR": "버뮤다",
+      "nameEN": "Bermuda"
+    },
+    {
+      "code": "BJ",
+      "nameKR": "베냉",
+      "nameEN": "Benin"
+    },
+    {
+      "code": "VE",
+      "nameKR": "베네수엘라볼리바르",
+      "nameEN": "Venezuela"
+    },
+    {
+      "code": "VN",
+      "nameKR": "베트남",
+      "nameEN": "Vietnam"
+    },
+    {
+      "code": "BE",
+      "nameKR": "벨기에",
+      "nameEN": "Belgium"
+    },
+    {
+      "code": "BY",
+      "nameKR": "벨라루스",
+      "nameEN": "Belarus"
+    },
+    {
+      "code": "BZ",
+      "nameKR": "벨리즈",
+      "nameEN": "Belize"
+    },
+    {
+      "code": "BA",
+      "nameKR": "보스니아헤르체고비나",
+      "nameEN": "Bosnia-Herzegovina"
+    },
+    {
+      "code": "BW",
+      "nameKR": "보츠와나",
+      "nameEN": "Botswana"
+    },
+    {
+      "code": "BO",
+      "nameKR": "볼리비아",
+      "nameEN": "Bolivia"
+    },
+    {
+      "code": "BI",
+      "nameKR": "부룬디",
+      "nameEN": "Burundi"
+    },
+    {
+      "code": "BF",
+      "nameKR": "부르키나파소",
+      "nameEN": "Burkina Faso"
+    },
+    {
+      "code": "BT",
+      "nameKR": "부탄",
+      "nameEN": "Bhutan"
+    },
+    {
+      "code": "MP",
+      "nameKR": "북마리아나 군도",
+      "nameEN": "Northern Mariana Islands"
+    },
+    {
+      "code": "MK",
+      "nameKR": "북마케도니아",
+      "nameEN": "North Macedonia"
+    },
+    {
+      "code": "BG",
+      "nameKR": "불가리아",
+      "nameEN": "Bulgaria"
+    },
+    {
+      "code": "BR",
+      "nameKR": "브라질",
+      "nameEN": "Brazil"
+    },
+    {
+      "code": "BN",
+      "nameKR": "브루나이",
+      "nameEN": "Brunei"
+    },
+    {
+      "code": "WS",
+      "nameKR": "사모아",
+      "nameEN": "Samoa"
+    },
+    {
+      "code": "SA",
+      "nameKR": "사우디아라비아",
+      "nameEN": "Saudi Arabia"
+    },
+    {
+      "code": "CY",
+      "nameKR": "사이프러스",
+      "nameEN": "Cyprus"
+    },
+    {
+      "code": "EH",
+      "nameKR": "사하라 아랍민주공화국(서부사하라)",
+      "nameEN": "Sahara Arab Democratic Republic"
+    },
+    {
+      "code": "SM",
+      "nameKR": "산마리노",
+      "nameEN": "San Marino"
+    },
+    {
+      "code": "ST",
+      "nameKR": "상투메프린시페",
+      "nameEN": "Sâo Tomé & Principe"
+    },
+    {
+      "code": "PM",
+      "nameKR": "생피에르·미클롱",
+      "nameEN": "St. Pierre and Miquelon"
+    },
+    {
+      "code": "SN",
+      "nameKR": "세네갈",
+      "nameEN": "Senegal"
+    },
+    {
+      "code": "RS",
+      "nameKR": "세르비아",
+      "nameEN": "Serbia"
+    },
+    {
+      "code": "SC",
+      "nameKR": "세이셸",
+      "nameEN": "Seychelles"
+    },
+    {
+      "code": "SH",
+      "nameKR": "세인트 헬레나 섬",
+      "nameEN": "St Helena"
+    },
+    {
+      "code": "LC",
+      "nameKR": "세인트루시아",
+      "nameEN": "St. Lucia"
+    },
+    {
+      "code": "VC",
+      "nameKR": "세인트빈센트그레나딘",
+      "nameEN": "St. Vincent & the Grenadines"
+    },
+    {
+      "code": "KN",
+      "nameKR": "세인트키츠네비스",
+      "nameEN": "St. Kitts-Nevis"
+    },
+    {
+      "code": "SO",
+      "nameKR": "소말리아",
+      "nameEN": "Somalia"
+    },
+    {
+      "code": "SB",
+      "nameKR": "솔로몬제도",
+      "nameEN": "Solomon Islands"
+    },
+    {
+      "code": "SD",
+      "nameKR": "수단",
+      "nameEN": "Sudan"
+    },
+    {
+      "code": "SR",
+      "nameKR": "수리남",
+      "nameEN": "Suriname"
+    },
+    {
+      "code": "LK",
+      "nameKR": "스리랑카",
+      "nameEN": "Sri Lanka"
+    },
+    {
+      "code": "SE",
+      "nameKR": "스웨덴",
+      "nameEN": "Sweden"
+    },
+    {
+      "code": "CH",
+      "nameKR": "스위스",
+      "nameEN": "Swiss"
+    },
+    {
+      "code": "ES",
+      "nameKR": "스페인",
+      "nameEN": "Spain"
+    },
+    {
+      "code": "SK",
+      "nameKR": "슬로바키아",
+      "nameEN": "Slovakia"
+    },
+    {
+      "code": "SI",
+      "nameKR": "슬로베니아",
+      "nameEN": "Slovenia"
+    },
+    {
+      "code": "SY",
+      "nameKR": "시리아",
+      "nameEN": "Syria"
+    },
+    {
+      "code": "SL",
+      "nameKR": "시에라리온",
+      "nameEN": "Sierra Leone"
+    },
+    {
+      "code": "SG",
+      "nameKR": "싱가포르",
+      "nameEN": "Singapore"
+    },
+    {
+      "code": "AE",
+      "nameKR": "아랍에미리트",
+      "nameEN": "United Arab Emirates : UAE"
+    },
+    {
+      "code": "AW",
+      "nameKR": "아루바",
+      "nameEN": "Aruba"
+    },
+    {
+      "code": "AM",
+      "nameKR": "아르메니아",
+      "nameEN": "Armenia"
+    },
+    {
+      "code": "AR",
+      "nameKR": "아르헨티나",
+      "nameEN": "Argentina"
+    },
+    {
+      "code": "IS",
+      "nameKR": "아이슬란드",
+      "nameEN": "Iceland"
+    },
+    {
+      "code": "HT",
+      "nameKR": "아이티",
+      "nameEN": "Haiti"
+    },
+    {
+      "code": "IE",
+      "nameKR": "아일랜드",
+      "nameEN": "Ireland"
+    },
+    {
+      "code": "AZ",
+      "nameKR": "아제르바이잔",
+      "nameEN": "Azerbaijan"
+    },
+    {
+      "code": "AF",
+      "nameKR": "아프가니스탄",
+      "nameEN": "Afghanistan"
+    },
+    {
+      "code": "AD",
+      "nameKR": "안도라",
+      "nameEN": "Andorra"
+    },
+    {
+      "code": "AL",
+      "nameKR": "알바니아",
+      "nameEN": "Albania"
+    },
+    {
+      "code": "DZ",
+      "nameKR": "알제리",
+      "nameEN": "Algeria"
+    },
+    {
+      "code": "AO",
+      "nameKR": "앙골라",
+      "nameEN": "Angola"
+    },
+    {
+      "code": "AG",
+      "nameKR": "앤티가바부다",
+      "nameEN": "Antigua and Barbuda"
+    },
+    {
+      "code": "AI",
+      "nameKR": "앵귈라",
+      "nameEN": "Anguilla"
+    },
+    {
+      "code": "ER",
+      "nameKR": "에리트레아",
+      "nameEN": "Eritrea"
+    },
+    {
+      "code": "SZ",
+      "nameKR": "에스와티니",
+      "nameEN": "Eswatini"
+    },
+    {
+      "code": "EE",
+      "nameKR": "에스토니아",
+      "nameEN": "Estonia"
+    },
+    {
+      "code": "EC",
+      "nameKR": "에콰도르",
+      "nameEN": "Ecuador"
+    },
+    {
+      "code": "ET",
+      "nameKR": "에티오피아",
+      "nameEN": "ETC"
+    },
+    {
+      "code": "SV",
+      "nameKR": "엘살바도르",
+      "nameEN": "El Salvador"
+    },
+    {
+      "code": "GB",
+      "nameKR": "영국",
+      "nameEN": "United Kingdom"
+    },
+    {
+      "code": "AQ",
+      "nameKR": "영국령 남극지역",
+      "nameEN": "British Antarctic Territory"
+    },
+    {
+      "code": "VG",
+      "nameKR": "영국령 버진 아일랜드",
+      "nameEN": "British Virgin Islands"
+    },
+    {
+      "code": "IO",
+      "nameKR": "영국령 인도양 제도",
+      "nameEN": "British Indian Ocean Territory"
+    },
+    {
+      "code": "YE",
+      "nameKR": "예멘",
+      "nameEN": "Yemen"
+    },
+    {
+      "code": "OM",
+      "nameKR": "오만",
+      "nameEN": "Oman"
+    },
+    {
+      "code": "AT",
+      "nameKR": "오스트리아",
+      "nameEN": "Austria"
+    },
+    {
+      "code": "HN",
+      "nameKR": "온두라스",
+      "nameEN": "Honduras"
+    },
+    {
+      "code": "WF",
+      "nameKR": "왈리스·퓌튀나",
+      "nameEN": "Wallis and Futuna"
+    },
+    {
+      "code": "JO",
+      "nameKR": "요르단",
+      "nameEN": "Jordan"
+    },
+    {
+      "code": "UG",
+      "nameKR": "우간다",
+      "nameEN": "Uganda"
+    },
+    {
+      "code": "UY",
+      "nameKR": "우루과이",
+      "nameEN": "Uruguay"
+    },
+    {
+      "code": "UZ",
+      "nameKR": "우즈베키스탄",
+      "nameEN": "Uzbekistan"
+    },
+    {
+      "code": "UA",
+      "nameKR": "우크라이나",
+      "nameEN": "Ukraine"
+    },
+    {
+      "code": "EU",
+      "nameKR": "유럽연합",
+      "nameEN": "European Union : EU"
+    },
+    {
+      "code": "IQ",
+      "nameKR": "이라크",
+      "nameEN": "Iraq"
+    },
+    {
+      "code": "IR",
+      "nameKR": "이란",
+      "nameEN": "Iran"
+    },
+    {
+      "code": "IL",
+      "nameKR": "이스라엘",
+      "nameEN": "Israel"
+    },
+    {
+      "code": "EG",
+      "nameKR": "이집트",
+      "nameEN": "Egypt"
+    },
+    {
+      "code": "IT",
+      "nameKR": "이탈리아",
+      "nameEN": "Italia"
+    },
+    {
+      "code": "IN",
+      "nameKR": "인도",
+      "nameEN": "India"
+    },
+    {
+      "code": "ID",
+      "nameKR": "인도네시아",
+      "nameEN": "Indonesia"
+    },
+    {
+      "code": "JP",
+      "nameKR": "일본",
+      "nameEN": "Japan"
+    },
+    {
+      "code": "JM",
+      "nameKR": "자메이카",
+      "nameEN": "Jamaica"
+    },
+    {
+      "code": "ZM",
+      "nameKR": "잠비아",
+      "nameEN": "Zambia"
+    },
+    {
+      "code": "JE",
+      "nameKR": "저지",
+      "nameEN": "Bailiwick of Jersey"
+    },
+    {
+      "code": "GQ",
+      "nameKR": "적도기니",
+      "nameEN": "Equatorial Guinea"
+    },
+    {
+      "code": "GE",
+      "nameKR": "조지아",
+      "nameEN": "Georgia"
+    },
+    {
+      "code": "CN",
+      "nameKR": "중국",
+      "nameEN": "China"
+    },
+    {
+      "code": "CF",
+      "nameKR": "중앙아프리카",
+      "nameEN": "Central African Republic"
+    },
+    {
+      "code": "DJ",
+      "nameKR": "지부티",
+      "nameEN": "Djibouti"
+    },
+    {
+      "code": "GI",
+      "nameKR": "지브롤터",
+      "nameEN": "Gibraltar"
+    },
+    {
+      "code": "ZW",
+      "nameKR": "짐바브웨",
+      "nameEN": "Zimbabwe"
+    },
+    {
+      "code": "TD",
+      "nameKR": "차드",
+      "nameEN": "Chad"
+    },
+    {
+      "code": "CZ",
+      "nameKR": "체코",
+      "nameEN": "Czech"
+    },
+    {
+      "code": "CL",
+      "nameKR": "칠레",
+      "nameEN": "Chile"
+    },
+    {
+      "code": "CM",
+      "nameKR": "카메룬",
+      "nameEN": "Cameroon"
+    },
+    {
+      "code": "CV",
+      "nameKR": "카보베르데",
+      "nameEN": "Cape Verde"
+    },
+    {
+      "code": "KZ",
+      "nameKR": "카자흐스탄",
+      "nameEN": "Kazakhstan"
+    },
+    {
+      "code": "QA",
+      "nameKR": "카타르",
+      "nameEN": "Qatar"
+    },
+    {
+      "code": "KH",
+      "nameKR": "캄보디아",
+      "nameEN": "Cambodia"
+    },
+    {
+      "code": "CA",
+      "nameKR": "캐나다",
+      "nameEN": "Canada"
+    },
+    {
+      "code": "KE",
+      "nameKR": "케냐",
+      "nameEN": "Kenya"
+    },
+    {
+      "code": "KY",
+      "nameKR": "케이맨제도",
+      "nameEN": "Cayman Islands"
+    },
+    {
+      "code": "KM",
+      "nameKR": "코모로",
+      "nameEN": "Comoros"
+    },
+    {
+      "code": "XK",
+      "nameKR": "코소보",
+      "nameEN": "Kosovo"
+    },
+    {
+      "code": "CR",
+      "nameKR": "코스타리카",
+      "nameEN": "Costa Rica"
+    },
+    {
+      "code": "CI",
+      "nameKR": "코트디부아르",
+      "nameEN": "Côte D'Ivoire"
+    },
+    {
+      "code": "CO",
+      "nameKR": "콜롬비아",
+      "nameEN": "Colombia"
+    },
+    {
+      "code": "CG",
+      "nameKR": "콩고",
+      "nameEN": "Congo"
+    },
+    {
+      "code": "CD",
+      "nameKR": "콩고민주공화국",
+      "nameEN": "Democratic Republic of Congo"
+    },
+    {
+      "code": "CU",
+      "nameKR": "쿠바",
+      "nameEN": "Cuba"
+    },
+    {
+      "code": "KW",
+      "nameKR": "쿠웨이트",
+      "nameEN": "Kuwait"
+    },
+    {
+      "code": "CK",
+      "nameKR": "쿡제도",
+      "nameEN": "Cook Islands"
+    },
+    {
+      "code": "HR",
+      "nameKR": "크로아티아",
+      "nameEN": "Croatia"
+    },
+    {
+      "code": "KG",
+      "nameKR": "키르기즈공화국",
+      "nameEN": "Kyrgyz Republic"
+    },
+    {
+      "code": "KI",
+      "nameKR": "키리바시",
+      "nameEN": "Kiribati"
+    },
+    {
+      "code": "TJ",
+      "nameKR": "타지키스탄",
+      "nameEN": "Tajikistan"
+    },
+    {
+      "code": "TZ",
+      "nameKR": "탄자니아",
+      "nameEN": "Tanzania"
+    },
+    {
+      "code": "TH",
+      "nameKR": "태국",
+      "nameEN": "Thailand"
+    },
+    {
+      "code": "TC",
+      "nameKR": "터크스·케이커스 제도",
+      "nameEN": "Turks and Caicos Islands"
+    },
+    {
+      "code": "TG",
+      "nameKR": "토고",
+      "nameEN": "Togo"
+    },
+    {
+      "code": "TO",
+      "nameKR": "통가",
+      "nameEN": "Tonga"
+    },
+    {
+      "code": "TM",
+      "nameKR": "투르크메니스탄",
+      "nameEN": "Turkmenistan"
+    },
+    {
+      "code": "TV",
+      "nameKR": "투발루",
+      "nameEN": "Tuvalu"
+    },
+    {
+      "code": "TN",
+      "nameKR": "튀니지",
+      "nameEN": "Tunisia"
+    },
+    {
+      "code": "TR",
+      "nameKR": "튀르키예공화국",
+      "nameEN": "Republic of Turkiye"
+    },
+    {
+      "code": "TT",
+      "nameKR": "트리니다드토바고",
+      "nameEN": "Trinidad & Tobago"
+    },
+    {
+      "code": "PA",
+      "nameKR": "파나마",
+      "nameEN": "Panama"
+    },
+    {
+      "code": "PY",
+      "nameKR": "파라과이",
+      "nameEN": "Paraguay"
+    },
+    {
+      "code": "PK",
+      "nameKR": "파키스탄",
+      "nameEN": "Pakistan"
+    },
+    {
+      "code": "PG",
+      "nameKR": "파푸아뉴기니",
+      "nameEN": "Papua New Guinea : PNG"
+    },
+    {
+      "code": "PW",
+      "nameKR": "팔라우",
+      "nameEN": "Palau"
+    },
+    {
+      "code": "PS",
+      "nameKR": "팔레스타인",
+      "nameEN": "Palestine"
+    },
+    {
+      "code": "PE",
+      "nameKR": "페루",
+      "nameEN": "Peru"
+    },
+    {
+      "code": "PT",
+      "nameKR": "포르투갈",
+      "nameEN": "Portugal"
+    },
+    {
+      "code": "PL",
+      "nameKR": "폴란드",
+      "nameEN": "Poland"
+    },
+    {
+      "code": "PR",
+      "nameKR": "푸에르토리코",
+      "nameEN": "Puerto Rico"
+    },
+    {
+      "code": "FR",
+      "nameKR": "프랑스",
+      "nameEN": "France"
+    },
+    {
+      "code": "GF",
+      "nameKR": "프랑스령 기아나",
+      "nameEN": "French Guiana"
+    },
+    {
+      "code": "PF",
+      "nameKR": "프랑스령 폴리네시아",
+      "nameEN": "French Polynesia"
+    },
+    {
+      "code": "FJ",
+      "nameKR": "피지",
+      "nameEN": "Fiji"
+    },
+    {
+      "code": "FI",
+      "nameKR": "핀란드",
+      "nameEN": "Finland"
+    },
+    {
+      "code": "PH",
+      "nameKR": "필리핀",
+      "nameEN": "Philippines"
+    },
+    {
+      "code": "PN",
+      "nameKR": "핏케언 섬",
+      "nameEN": "Pitcairn Islands"
+    },
+    {
+      "code": "HU",
+      "nameKR": "헝가리",
+      "nameEN": "Hungary"
+    },
+    {
+      "code": "AU",
+      "nameKR": "호주",
+      "nameEN": "Australia"
+    },
+    {
+      "code": "HK",
+      "nameKR": "홍콩",
+      "nameEN": "Hongkong"
+    }
+  ]
+}
